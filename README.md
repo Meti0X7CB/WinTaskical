@@ -22,12 +22,17 @@ The Taskbar you deserve on Win 11
 ## Installation
 1 - Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
 
+2 - Make sure hide taskbar is disabled in windows settings.
+
+3 - If you want to enable the weather, you have to enable __widgets__ in windows settings:
+
+![image](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/17037355-bb9d-4868-9f96-c294eccc7c12)
+
 2 - Make sure you have installed the latest verison of TranslucentTB from [here](https://github.com/TranslucentTB/TranslucentTB/releases).
 
 3 - Set the taskbar transparency to Clear:
 
 ![image](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/b2298200-f7f9-4ba5-973f-ed3b64fcbd19)
-
 
 4 - Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
 
