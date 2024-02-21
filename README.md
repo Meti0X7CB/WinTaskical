@@ -14,24 +14,28 @@ The Taskbar you deserve on Win 11
 - Scalable UI
 - SMTC support
 - WebNowPlaying support
+- Windows Task Manager HW monitor support
+- CPU/GPU/RAM usage monitor (%)
+- Download/Upload monitor (MB/s)
+- Read and Write do disk monitor (MB/s)
 
 ## Installation
-Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
+1 - Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
 
-Make sure you have installed the latest verison of TranslucentTB from [here](https://github.com/TranslucentTB/TranslucentTB/releases).
+2 - Make sure you have installed the latest verison of TranslucentTB from [here](https://github.com/TranslucentTB/TranslucentTB/releases).
 
-Set the taskbar transparency to Clear:
+3 - Set the taskbar transparency to Clear:
 
 ![image](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/b2298200-f7f9-4ba5-973f-ed3b64fcbd19)
 
 
-Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
+4 - Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
 
-Load any of the styles from rainmeter.
+5 - Load any of the styles from rainmeter.
 
 ## Supported Players
 ### Windows applications 
-SquarePlayer supports every application that makes use of the [System Media Transport Controls API](https://learn.microsoft.com/en-us/uwp/api/windows.media.systemmediatransportcontrols?view=winrt-22621) out of the box.
+The Player widget supports every application that makes use of the [System Media Transport Controls API](https://learn.microsoft.com/en-us/uwp/api/windows.media.systemmediatransportcontrols?view=winrt-22621) out of the box.
 
 For the full list of supported applications, please refer to [this list](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md).
 
