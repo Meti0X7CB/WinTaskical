@@ -17,7 +17,7 @@ The Taskbar you deserve on Win 11
 - Windows Task Manager HW monitor support
 - CPU/GPU/RAM usage monitor (%)
 - Download/Upload monitor (MB/s)
-- Read and Write do disk monitor (MB/s)
+- Read and Write to disk monitor (MB/s)
 
 ## Installation
 1 - Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
