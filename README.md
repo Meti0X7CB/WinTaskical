@@ -1,9 +1,11 @@
 # WinTaskical
 The Taskbar you deserve on Win 11
 
-![Screenshot 2024-02-20 005145](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/e589b600-d6bd-47da-ac04-7f323736dcdd)
+![Screenshot 2024-02-25 142759](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/e739d821-b650-4a15-a28e-49e9bb0520e1)
 
-![Cover](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/9ee08c83-12bf-4911-b794-dd3b13e60011)
+## Styles:
+
+![Cover](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/b94853e4-86a6-481b-a75c-fa2608a3065d)
 
 ## Minimum Requirements:
 - Windows 11
