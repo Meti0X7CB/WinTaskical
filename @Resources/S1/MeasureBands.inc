@@ -6,6 +6,7 @@ FFTSize = 1024
 FFTAttack = 75
 FFTDecay = 150
 Bands = 10
+Sensitivity = 40
 
 [MeasureBand0]
 Measure = Plugin
