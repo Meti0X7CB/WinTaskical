@@ -51,7 +51,7 @@ Requires [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started) brow
 All major streaming sites such as Youtube Music, SoundCloud and many more are supported. For the full list of supported sites, please refer to [this list](https://wnp.keifufu.dev/supported-sites).
 
 ## FAQ
-- The following applications don't fully make use of Window's SMTC API, however this can be overcome by installing the approapriate plugin for your application:
+- The following applications don't fully make use of Window's SMTC API, however this can be overcome by installing the appropriate plugin for your application:
 [MusicBee](https://github.com/ameer1234567890/mb_MediaControl), [AIMP](https://www.aimp.ru/?do=catalog&rec_id=1097), [DeaDBeeF](https://github.com/DeaDBeeF-for-Windows/ddb_smtc), [iTunes](https://github.com/thewizrd/iTunes-SMTC), [VLC](https://github.com/spmn/vlc-win10smtc), [Winamp](https://github.com/NanMetal/gen_smtc), [MPV](https://github.com/x0wllaar/MPV-SMTC), [Netease Cloud Music](https://github.com/BetterNCM/InfinityLink)
 
 - If the taskbar is not scaled properly on your monitor follow this:
