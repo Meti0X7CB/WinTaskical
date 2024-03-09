@@ -5,7 +5,7 @@ The Taskbar you deserve on Win 11
 
 ## Styles:
 
-![Cover](https://media.discordapp.net/attachments/1211406685760135179/1213955212826640494/Cover.png?ex=65f75ae4&is=65e4e5e4&hm=dc5cface5f375fe59f1f1c3725ba613551d692583ec69069422321e197e1f571&=&format=webp&quality=lossless&width=827&height=827)
+![Screenshot 2024-03-08 201653](https://github.com/Meti0X7CB/WinTaskical/assets/8690114/2f0f0054-8f33-42dd-92bb-7fd9efcac101)
 
 ## Minimum Requirements:
 - Windows 11
