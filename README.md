@@ -4,9 +4,10 @@ The Taskbar you deserve on Win 11
 ![Screenshot 2024-08-12 165732](https://github.com/user-attachments/assets/83406a62-76e6-4949-894c-59854482814c)
 
 ## Styles:
-
+### Center Taskbar
 ![Screenshot 2024-08-12 164034](https://github.com/user-attachments/assets/8b2711d6-ab26-4e4c-859d-efa12ae802aa)
 
+### Left Taskbar
 ![Screenshot 2024-09-05 094136](https://github.com/user-attachments/assets/827242b3-478e-4b61-81de-84bf206dc8cc)
 
 
