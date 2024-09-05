@@ -7,9 +7,12 @@ The Taskbar you deserve on Win 11
 
 ![Screenshot 2024-08-12 164034](https://github.com/user-attachments/assets/8b2711d6-ab26-4e4c-859d-efa12ae802aa)
 
+![Screenshot 2024-09-05 094136](https://github.com/user-attachments/assets/827242b3-478e-4b61-81de-84bf206dc8cc)
+
+
 ## Minimum Requirements:
 - Windows 11
-- Rainmeter 4.5.18
+- Rainmeter 4.5.20
 - Translucent TB 2023.2
 
 ## Features
@@ -56,5 +59,3 @@ All major streaming sites such as Youtube Music, SoundCloud and many more are su
 
 - If the taskbar is not scaled properly on your monitor follow this:
 https://github.com/Meti0X7CB/WinTaskical/issues/1#issuecomment-1958386359
-## Credits
-Special thanks to [keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz/) for the WebNowPlaying plugin and a big thank you to [TheAzack9](https://github.com/TheAzack9) and [khanhas](https://github.com/khanhas) for the FrostedGlass plugin.
