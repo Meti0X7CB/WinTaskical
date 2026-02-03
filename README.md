@@ -1,15 +1,17 @@
 # WinTaskical
 The Taskbar you deserve on Win 11
 
-![Screenshot 2024-08-12 165732](https://github.com/user-attachments/assets/83406a62-76e6-4949-894c-59854482814c)
+<img width="3840" height="2160" alt="Screenshot 2025-07-27 192827" src="https://github.com/user-attachments/assets/5c01e6d3-a8cc-40ca-b96e-79ca89e9c99b" />
 
 ## Styles:
-### Center Taskbar
-![Screenshot 2024-08-12 164034](https://github.com/user-attachments/assets/8b2711d6-ab26-4e4c-859d-efa12ae802aa)
+### Support for both Center and Left Taskbar
 
-### Left Taskbar
-![Screenshot 2024-09-05 094136](https://github.com/user-attachments/assets/827242b3-478e-4b61-81de-84bf206dc8cc)
+<img width="3840" height="2160" alt="Screenshot 2025-07-27 193841 - Copy2" src="https://github.com/user-attachments/assets/75af9a38-f216-4122-9a04-1649da17a39c" />
 
+## Theme:
+Transparency and Theme can be adjusted by changing the Theme value in the skin variables.
+
+Theme values:, ```Dark (default), Dark1, Dark2, Dark3, Dark4, Light, Light1, Light2, Light3, Light4```
 
 ## Minimum Requirements:
 - Windows 11
