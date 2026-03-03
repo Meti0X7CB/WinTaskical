@@ -21,15 +21,11 @@
 - Translucent TB 2025.1+
 
 ## 📦 Installation
-1 - Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
-
-2 - Make sure you have installed the latest verison of TranslucentTB from [here](https://github.com/TranslucentTB/TranslucentTB/releases).
-
-3 - Set the taskbar transparency in TranslucentTB to Clear.
-
-4 - Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
-
-5 - Load any of the styles from rainmeter.
+- Download and installed the latest verison of TranslucentTB from [here](https://github.com/TranslucentTB/TranslucentTB/releases).
+  - Set the taskbar transparency in TranslucentTB to Clear.
+- Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
+  - Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
+  - Load any of the styles from rainmeter.
 
 ## 🔧 Supported Players
 #### Windows applications 
