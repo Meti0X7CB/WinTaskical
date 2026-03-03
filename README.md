@@ -45,4 +45,4 @@ The following applications don't fully make use of Window's SMTC API, however th
 
 ## ⭐ Support the Project
 
-If you like WindowsBar, please consider to staring the repo.
+If you like WindowsBar, please consider staring the repo.
